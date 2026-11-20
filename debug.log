@@ -1,0 +1,3 @@
+GET /notices 200
+GET /health 200
+GET /favicon.ico 404
